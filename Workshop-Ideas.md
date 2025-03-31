@@ -6,7 +6,7 @@ Electronic Repair - bring your own broken equipment
 
 Cheese - dependent on  milk supply
 
-Solar Panel and battery re-use - Demystified
+Solar Panel and Battery re-use - Demystified
 
 ELM Compost
 
@@ -22,7 +22,7 @@ Electronics For Mechatronic Sculpture - bring your own questions and ideas
 
 Heat Pumps Demystified
 
-MIG and TIG Welding
+MIG and TIG Welding For Mechatronic Sculpture
 
 Food Fermentation
   Sauerkraut
