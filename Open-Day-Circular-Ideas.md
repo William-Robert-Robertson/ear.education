@@ -41,7 +41,7 @@ Fermented Apple Juice
 
 Simple Mechanical Sculpture
   - powered by re-used washing machine motor
-  - observers are free to adjust the speed of the motor to see what happens to the sculpture ;-) !
+  - observers are free to adjust the speed of the motor to see what happens to the sculpture 😉 !
 
 Glass Art from Recycled Glass
   - using glass scrap from high quality Swiss glass business
@@ -59,10 +59,16 @@ Metal Castings (e.g. bells)
   - Precision surfaces finished on mill or lathe using re-used carbide tipped tools
   - may be too complicated for open day
 
+Feuerwehr
+  - local fire station can maybe send 2 or 3 people for community engagement and education
+
+Barbercue
+  - built using scrap refractory bricks from Lohner Ziegelei
+
 Moo or Moog?
   - Synthesiser using sampled cow moos
 
 The Electroterrorist
   - Fun opportunity for children and adults to poke a screwdriver around
   - simulated unsafe electrical things - ancient and modern
-  - with loud buzzers, lighting up electrocution warning signs, sirens, strobe lights, smoke machine, etc.
+  - with loud buzzers, lighting up electrocution warning signs, fire engine sirens, bells, strobe lights, smoke machine, etc.
