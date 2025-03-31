@@ -5,7 +5,7 @@ Pizza in Kachelofen - maybe too warm for June?
 
 Cheese
   - If Will makes it it can be seen but not tasted by visitors because food safety compliance paperwork is too time consuming for Will to complete by June
-  - rolfbeeler.ch is some distance away in 5507 Mellingen - maybe there is someone making Rohmilchkäse  more nearby?
+  - [gourmino.ch/kaese/juscht](https://www.gourmino.ch/kaese/juscht) in 3550 Langnau im Emmental - [fromagemauerhofer.ch](https://www.fromagemauerhofer.ch/) "Alle MAUERHOFER-Käsekreationen sind wie damals reine Rohmilchprodukte." in 3454 Sumiswald - maybe there is someone else making Rohmilchkäse nearby? - rolfbeeler.ch is some distance away in 5507 Mellingen.
 
 Repaired Household Appliances
 
