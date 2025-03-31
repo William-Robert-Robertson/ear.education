@@ -11,7 +11,7 @@ Solar Panel and Battery re-use - Demystified
 ELM Compost
 
 Electronics For Mechatronic Sculpture - bring your own questions and ideas
-  Microcontrollers
+  - Microcontrollers
   Microprocessors
   Motors and Motor Controllers
     DC Motors
