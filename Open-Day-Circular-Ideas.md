@@ -61,6 +61,7 @@ Metal Castings (e.g. bells)
 
 Feuerwehr
   - local fire station can maybe send 2 or 3 people for community engagement and education
+  - demonstration of fireball from chip pan fire is often popular
 
 Barbercue
   - built using scrap refractory bricks from Lohner Ziegelei (Marc's idea)
@@ -72,3 +73,4 @@ The Electroterrorist
   - Fun opportunity for children and adults to poke a screwdriver around
   - simulated unsafe electrical things - ancient and modern
   - with loud buzzers, lighting up electrocution warning signs, fire engine sirens, bells, strobe lights, smoke machine, etc.
+  - possibly including a hapless animatronic chicken who sometimes becomes the victim of electrical mishaps
