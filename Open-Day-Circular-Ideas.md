@@ -17,7 +17,7 @@ Re-Used Solar Panels + AGM Batteries
 ELM Compost
 
 Forging / Schmiedearbeiten
-  - N.B. Forging not done at Trubschachen because of bulky equipment needed and risk of noise disturbing neighbours.
+  - N.B. Forging not done at Trubschachen because of bulky equipment - unless Kasper can find an anvil in time...
   - Knife Making
   - Musical Instrument Making
   - Possibly using old saw blades from Zimmerei Hirschi or truberholz.ch (N.B. high carbon steel saw blades not the low carbon steel used for carbide tipped saw blades)
