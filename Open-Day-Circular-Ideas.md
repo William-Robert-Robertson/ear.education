@@ -20,7 +20,8 @@ Forging / Schmiedearbeiten
   - N.B. Forging not done at Trubschachen because of bulky equipment needed and risk of noise disturbing neighbours.
   - Knife Making
   - Musical Instrument Making
-  - from high quality scrap steel from a Swiss business
+  - Possibly using old saw blades from Zimmerei Hirschi or truberholz.ch (N.B. high carbon steel saw blades not the low carbon steel used for carbide tipped saw blades)
+  - from high quality scrap steel from other Swiss businesses
   - forged using charcoal made from scrap wood from Zimmerei Hirschi
 
 Glockenspiel
@@ -53,7 +54,7 @@ Chainsaw Carved Nest Holes and Roosts
   - For endangered dormouse and bat species
   - Using scrap timber from local forestry business
 
-Lichtenburg fractals 
+Lichtenburg Fractals 
   - on scrap wood from Zimmerei Hirschi
 
 Pralines and French Truffles
