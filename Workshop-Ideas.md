@@ -29,10 +29,10 @@ Food Fermentation
   - Wine
     - Easy Wines
     - Difficult Wines
-    - Methode Traditional
+    - Méthode Traditionelle
 
 Dormouse and Bat Conservation
 
-Pralines and French Truffles
+Chocolate Pralines and French Truffles
 
 Tree Healing ?
