@@ -1,6 +1,7 @@
 # ear.education Open Day Circular Ideas
 
 Pizza in Kachelofen - maybe too warm for June?
+
 Cheese
 Repaired Household Appliances
 Re-Used Solar Panels + AGM Batteries - providing electric light to part of the house for the open day
