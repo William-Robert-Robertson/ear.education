@@ -1,18 +1,50 @@
 # ear.education Open Day Circular Ideas
 
 Pizza in Kachelofen - maybe too warm for June?
+  - cooked with scrap wood from Zimmerei Hirschi
 
 Cheese
-Repaired Household Appliances
-Re-Used Solar Panels + AGM Batteries - providing electric light to part of the house for the open day
-ELM Compost
-Knife Making from Scrap Steel - forging not done at Trubschachen because of bulky equipment needed and risk of noise disturbing neighbours
-Glockenspiel - built with 2nd hand cow bells - possibly water powered
 
-Sauerkraut from Leftover Vegetables
+Repaired Household Appliances
+
+Re-Used Solar Panels + AGM Batteries - providing electric light to part of the house for the open day
+  - made with scrap batteries from local garage
+
+ELM Compost
+
+Forging / Schmiedearbeiten
+  - N.B. Forging not done at Trubschachen because of bulky equipment needed and risk of noise disturbing neighbours.
+  - Knife Making
+  - Musical Instrument Making
+  - from high quality scrap steel from a Swiss business
+  - using charcoal made from scrap wood from Zimmerei Hirschi
+
+Glockenspiel
+  - built with 2nd hand cow bells
+  - possibly water powered with water supply to Brunnen
+
+Sauerkraut from Local Leftover Vegetables
+
 Coffee Grain re-use
+  - Mechanic's had wash for removing grease and difficult dirt
+
 Wood ash re-use
+  - wood ash and water cleaning paste
+  - wood ash and washing up liquid cleaning paste
+  - possibly paint stripping with wood ash
+
 Fermented Apple Juice
+
 Glass Art from Recycled Glass
-Pralines and French Truffles - including cream from local milk and flavours from leftover fruit
-Metal Castings (e.g. bells) cast using 3D printed moulds, lost wax casting in vacuum and brass or bronze scrap - may be too complicated for open day
+
+Lichtenburg fractals 
+  - on scrap wood from Zimmerei Hirschi
+
+Pralines and French Truffles
+  - including cream from local milk
+  - using natural flavours from leftover fruit
+
+Metal Castings (e.g. bells)
+  - cast using 3D printed moulds, lost wax casting in vacuum
+  - Using brass or bronze scrap from Swiss business
+  - may be too complicated for open day
