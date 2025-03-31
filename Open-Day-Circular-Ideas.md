@@ -19,7 +19,7 @@ Forging / Schmiedearbeiten
   - Knife Making
   - Musical Instrument Making
   - from high quality scrap steel from a Swiss business
-  - using charcoal made from scrap wood from Zimmerei Hirschi
+  - forged using charcoal made from scrap wood from Zimmerei Hirschi
 
 Glockenspiel
   - built with 2nd hand cow bells
@@ -37,6 +37,7 @@ Wood ash re-use
   - soap made from wood ash
 
 Fermented Apple Juice
+  - How drunk do people want to get?
 
 Simple Mechanical Sculpture
   - powered by re-used washing machine motor
@@ -55,8 +56,13 @@ Pralines and French Truffles
 Metal Castings (e.g. bells)
   - cast using 3D printed moulds, lost wax casting in vacuum
   - Using brass or bronze scrap from Swiss business
-  - Precision surfaces finished on mill or lathe
+  - Precision surfaces finished on mill or lathe using re-used carbide tipped tools
   - may be too complicated for open day
 
 Moo or Moog?
   - Synthesiser using sampled cow moos
+
+The Electroterrorist
+  - Fun opportunity for children and adults to poke a screwdriver around
+  - simulated unsafe electrical things - ancient and modern
+  - with loud buzzers, lighting up electrocution warning signs, sirens, strobe lights, smoke machine, etc.
