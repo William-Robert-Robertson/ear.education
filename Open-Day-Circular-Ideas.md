@@ -7,8 +7,10 @@ Cheese
 
 Repaired Household Appliances
 
-Re-Used Solar Panels + AGM Batteries - providing electric light to part of the house for the open day
+Re-Used Solar Panels + AGM Batteries
+  - providing electric light to part of the house for the open day
   - made with scrap batteries from local garage
+  - light provided via light fittings re-used under low voltage chapter of Swiss electrical regulations
 
 ELM Compost
 
