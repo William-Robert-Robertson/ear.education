@@ -47,6 +47,10 @@ Simple Mechanical Sculpture
 Glass Art from Recycled Glass
   - using glass scrap from high quality Swiss glass business
 
+Chainsaw Carved Nest Holes and Roosts
+  - For endangered dormouse and bat species
+  - Using scrap timber from local forestry business
+
 Lichtenburg fractals 
   - on scrap wood from Zimmerei Hirschi
 
@@ -74,4 +78,4 @@ The Electroterrorist
   - Fun opportunity for children and adults to poke a screwdriver around
   - simulated unsafe electrical things - ancient and modern
   - with loud buzzers, lighting up electrocution warning signs, fire engine sirens, bells, strobe lights, smoke machine, etc.
-  - possibly including a hapless inflatable animatronic chicken who sometimes becomes the noisy victim of electrical mishaps
+  - possibly including a hapless inflatable rubber animatronic chicken who sometimes becomes the noisy victim of electrical mishaps
