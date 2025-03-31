@@ -34,10 +34,16 @@ Wood ash re-use
   - wood ash and water cleaning paste
   - wood ash and washing up liquid cleaning paste
   - possibly paint stripping with wood ash
+  - soap made from wood ash
 
 Fermented Apple Juice
 
+Simple Mechanical Sculpture
+  - powered by re-used washing machine motor
+  - observers are free to adjust the speed of the motor to see what happens to the sculpture ;-) !
+
 Glass Art from Recycled Glass
+  - using glass scrap from high quality Swiss glass business
 
 Lichtenburg fractals 
   - on scrap wood from Zimmerei Hirschi
@@ -49,4 +55,8 @@ Pralines and French Truffles
 Metal Castings (e.g. bells)
   - cast using 3D printed moulds, lost wax casting in vacuum
   - Using brass or bronze scrap from Swiss business
+  - Precision surfaces finished on mill or lathe
   - may be too complicated for open day
+
+Moo or Moog?
+  - Synthesiser using sampled cow moos
