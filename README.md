@@ -1,2 +1,2 @@
 # ear.education
-Environmental Artistic Research
+Environmental Artistic Research - Verein EAR
