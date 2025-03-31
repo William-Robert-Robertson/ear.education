@@ -67,6 +67,10 @@ Metal Castings (e.g. bells)
 Regionale Koordinationsstelle Fledermausschutz Bern (deutschsprachiger Teil)
   - [fledermausverein-be.ch](https://fledermausverein-be.ch).
 
+Stiftung Wildstation Landshut
+  - [wildstation.ch](https://www.wildstation.ch/de/)
+  - Will be able to provide a poster and leaflets but likely not a person because of high work volume in late June
+
 Feuerwehr
   - local fire station can maybe send 2 or 3 people for community engagement and education
   - demonstration of fireball from chip pan fire is often popular
