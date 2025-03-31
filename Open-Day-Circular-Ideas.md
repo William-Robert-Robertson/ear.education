@@ -74,4 +74,4 @@ The Electroterrorist
   - Fun opportunity for children and adults to poke a screwdriver around
   - simulated unsafe electrical things - ancient and modern
   - with loud buzzers, lighting up electrocution warning signs, fire engine sirens, bells, strobe lights, smoke machine, etc.
-  - possibly including a hapless animatronic chicken who sometimes becomes the victim of electrical mishaps
+  - possibly including a hapless inflatable animatronic chicken who sometimes becomes the victim of electrical mishaps
