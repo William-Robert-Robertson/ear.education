@@ -4,7 +4,8 @@ Pizza in Kachelofen - maybe too warm for June?
   - cooked with scrap wood from Zimmerei Hirschi
 
 Cheese
-  - can be seen but not tasted by visitors because food safety compliance paperwork is too time consuming for me to complete in time for June
+  - If Will makes it it can be seen but not tasted by visitors because food safety compliance paperwork is too time consuming for Will to complete by June
+  - rolfbeeler.ch is some distance away in 5507 Mellingen - maybe there is someone making Rohmilchkäse  more nearby?
 
 Repaired Household Appliances
 
@@ -24,6 +25,7 @@ Forging / Schmiedearbeiten
 
 Glockenspiel
   - built with 2nd hand cow bells
+  - may also include old saw blades from Zimmerei Hirschi
   - possibly water powered with water supply to Brunnen
 
 Sauerkraut from Local Leftover Vegetables
