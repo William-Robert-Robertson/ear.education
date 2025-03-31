@@ -1,4 +1,4 @@
-# ear.education Open Day Circular Ideas
+# ear.education - Open Day at Gummenstrasse 1 - Circular Ideas
 
 Pizza in Kachelofen - maybe too warm for June?
   - cooked with scrap wood from Zimmerei Hirschi
