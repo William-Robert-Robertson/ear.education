@@ -1,4 +1,4 @@
-Possible Workshop Ideas
+# ear.education Possible Workshop Ideas
 
 Wood Fired Pizza - better in cold weather
 
