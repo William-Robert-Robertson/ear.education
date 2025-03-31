@@ -4,6 +4,7 @@ Pizza in Kachelofen - maybe too warm for June?
   - cooked with scrap wood from Zimmerei Hirschi
 
 Cheese
+  - can be seen but not tasted by visitors because food safety compliance paperwork is too time consuming for me to complete in time for June
 
 Repaired Household Appliances
 
