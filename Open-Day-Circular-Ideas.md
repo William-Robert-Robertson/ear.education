@@ -63,7 +63,7 @@ Feuerwehr
   - local fire station can maybe send 2 or 3 people for community engagement and education
 
 Barbercue
-  - built using scrap refractory bricks from Lohner Ziegelei
+  - built using scrap refractory bricks from Lohner Ziegelei (Marc's idea)
 
 Moo or Moog?
   - Synthesiser using sampled cow moos
