@@ -12,24 +12,24 @@ ELM Compost
 
 Electronics For Mechatronic Sculpture - bring your own questions and ideas
   - Microcontrollers
-  Microprocessors
-  Motors and Motor Controllers
-    DC Motors
-    Stepper Motors
-    AC Motors
-  Electromagnets
-  Electro-Pneumatics
+  - Microprocessors
+  - Motors and Motor Controllers
+    - DC Motors
+    - Stepper Motors
+    - AC Motors
+  - Electromagnets
+  - Electro-Pneumatics
 
 Heat Pumps Demystified
 
 MIG and TIG Welding For Mechatronic Sculpture
 
 Food Fermentation
-  Sauerkraut
-  Wine
-    Easy
-    Difficult
-    Methode Traditional
+  - Sauerkraut
+  - Wine
+    - Easy Wines
+    - Difficult Wines
+    - Methode Traditional
 
 Dormouse and Bat Conservation
 
