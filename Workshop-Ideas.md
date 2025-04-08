@@ -33,7 +33,7 @@ MIG and TIG Welding For Mechatronic Sculpture
   - Welding and brazing - advantages and disadvantages of each
   - Preparing and welding steels
   - Preparing and welding difficult materials - aluminium and chrome steels
-  - Flux core and inert gas welding - advantages and disadvantages
+  - Flux core and inert gas (Schutzgas) welding - advantages and disadvantages
   - Diagnosing and fixing common problems
 
 Food Fermentation
