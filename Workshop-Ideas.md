@@ -1,5 +1,7 @@
 # ear.education Possible Workshop Ideas
 
+Things are often difficult because they're badly explained - different people have different learning styles and these workshops aim to be tailored to the learning styles and specific aims and interests of each individual participant.
+
 Wood Fired Pizza - better in cold weather
 
 Electronic Repair - bring your own broken equipment
@@ -28,6 +30,11 @@ Open Source Sound and Vision
 Heat Pumps Demystified
 
 MIG and TIG Welding For Mechatronic Sculpture
+  - Welding and brazing - advantages and disadvantages of each
+  - Preparing and welding steels
+  - Preparing and welding difficult materials - aluminium and chrome steels
+  - Flux core and inert gas welding - advantages and disadvantages
+  - Diagnosing and fixing common problems
 
 Food Fermentation
   - Sauerkraut
