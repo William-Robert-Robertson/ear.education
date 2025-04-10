@@ -2,7 +2,7 @@
 
 Things are often difficult because they're badly explained - different people have different learning styles and these workshops aim to be tailored to the learning styles and specific aims and interests of each individual participant. In each workshop we aim to equip each participant with the understanding that they want and need and knowledge of where to find more in-depth information.
 
-Businesses and "influencers" often have a commercial interest in making their area of work seem confusing and inaccessible to ordinary people, providing incomplete information or in promoting their products and services so strict independence is maintained from businesses and industry bodies.
+Businesses and "influencers" often have a commercial interest in making their area of work seem confusing and inaccessible to ordinary people, in providing incomplete information or in promoting their products and services so strict independence is maintained from businesses and industry bodies.
 
 Wood Fired Pizza
   - Better in cold weather
