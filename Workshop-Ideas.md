@@ -92,6 +92,8 @@ Chainsaw Care and Safety for Non-Professional Users
   - Cleaning the important bits
   - Diagnosing common problems
   - Common accidents and main dangers to avoid
+  - Checking 2nd hand equipment for common problems
+  - Choosing providers for professional training
 
 Chocolate Pralines and French Truffles
 
